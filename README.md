@@ -20,7 +20,7 @@ The engineers who design chips, circuits, and embedded systems still work in too
 ### 🚀 Recently shipped
 
 **[Argus](https://github.com/yassin1123/Argus)** — *multi-agent research platform*
-Built solo as an MVP, grew to a deployment across the 150-person 180DC Southampton chapter over multiple release cycles. Planner → Researcher → Analyst → Critic → Verifier → Writer pipeline that turns ambiguous strategic questions into evidence-backed consulting-grade reports. Awarded £3,000 Enterprise Prize, pitched at Entrepreneur First and Future Worlds. Closed May 2026 to focus on Substrate.
+Built solo as an MVP, grew to a deployment across the 150-person 180DC Southampton chapter over multiple release cycles. Planner → Researcher → Analyst → Critic → Verifier → Writer pipeline that turns ambiguous strategic questions into evidence-backed consulting-grade reports. Awarded £3,000 Enterprise Prize, pitched at Future Worlds. Closed May 2026 to focus on Substrate.
 
 `Next.js · FastAPI · Python · Celery · PostgreSQL/pgvector · embeddings · LLM APIs`
 
