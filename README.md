@@ -24,6 +24,11 @@ Built solo as an MVP, grew to a deployment across the 150-person 180DC Southampt
 
 `Next.js · FastAPI · Python · Celery · PostgreSQL/pgvector · embeddings · LLM APIs`
 
+[DormDrop](https://github.com/yassin1123/DormDrop) — peer-to-peer student delivery platform
+24/7 delivery across University of Southampton halls. Grew to hundreds of active users before university shutdown mid-semester. Full order lifecycle — browse, pay, track, deliver, rate — with live GPS tracking, real-time updates, and an admin analytics dashboard.
+
+`Next.js · TypeScript · Supabase · Stripe · Google Maps · Realtime · PWA`
+
 **[Circuit Reasoning Engine](https://github.com/yassin1123/Circuit-Reasoning-Engine)** — *deterministic circuit analysis*
 Functional block detection, parameter estimation, and auditable analysis of netlists. The technical foundation that became Substrate's Tracer agent.
 
