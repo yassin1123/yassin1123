@@ -10,7 +10,7 @@ Previously shipped [**Argus**](https://github.com/yassin1123/Argus) solo to 150 
 
 ### 🛠 What I'm building
 
-**[Substrate](https://yassinalyassin.com)** — *agentic AI for deep-tech engineering*
+**[Substrate](https://portfolio-lilac-seven-14.vercel.app/deck)** — *agentic AI for deep-tech engineering*
 The engineers who design chips, circuits, and embedded systems still work in tools from the 1990s. Substrate is the agentic platform for that gap. Starting with **Tracer**, an agent that modernises legacy electronic circuits — the technical core placed 2nd of 100+ teams at AMD. Pre-seed, live design-partner conversations.
 
 `Multi-provider LLM router · agentic core · domain-specific models · multimodal schematic reasoning`
@@ -67,4 +67,4 @@ I write occasionally about agentic systems, deep-tech, and what shipping real AI
 
 Open to: founder conversations, Substrate design partners, FDE / Applied AI roles for 2027.
 
-[Portfolio]([https://yassinalyassin.com](https://portfolio-lilac-seven-14.vercel.app/) · [LinkedIn](https://linkedin.com/in/yassinalyassin) · yassinalyassin771@gmail.com
+[Portfolio](https://portfolio-lilac-seven-14.vercel.app/) · [LinkedIn](https://linkedin.com/in/yassinalyassin) · yassinalyassin771@gmail.com
