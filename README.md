@@ -65,6 +65,6 @@ I write occasionally about agentic systems, deep-tech, and what shipping real AI
 
 ### 📫 Get in touch
 
-Open to: founder conversations, Substrate design partners, FDE / Applied AI roles for 2027.
+Open to: founder conversations, Substrate design partners.
 
 [Portfolio](https://portfolio-lilac-seven-14.vercel.app/) · [LinkedIn](https://linkedin.com/in/yassinalyassin) · yassinalyassin771@gmail.com
