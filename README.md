@@ -2,7 +2,7 @@
 
 **I build AI agents for the engineers who design the physical world.**
 
-Final-year Electronic Engineering at the University of Southampton, predicted First. Hardware-AI bilingual — I can read a schematic and ship a multi-agent system. Currently building [**Substrate**](https://yassinalyassin.com), the agentic platform for deep-tech engineering, starting with legacy circuit modernisation.
+Final-year Electronic Engineering at the University of Southampton, predicted First. Hardware-AI bilingual — I can read a schematic and ship a multi-agent system. Currently building [**Substrate**](https://portfolio-lilac-seven-14.vercel.app/deck), the agentic platform for deep-tech engineering, starting with legacy circuit modernisation.
 
 Previously shipped [**Argus**](https://github.com/yassin1123/Argus) solo to 150 users across 180DC Southampton, placed 2nd of 100+ teams at the AMD Pervasive AI Contest, and 1st at BAE Systems Hack the Future. Incoming Data & AI intern at Accenture, Summer 2026.
 
