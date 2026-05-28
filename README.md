@@ -56,7 +56,7 @@ Functional block detection, parameter estimation, and auditable analysis of netl
 
 ### 📝 Writing
 
-I write occasionally about agentic systems, deep-tech, and what shipping real AI products actually looks like — on [my site]([https://yassinalyassin.com](https://portfolio-lilac-seven-14.vercel.app/).
+I write occasionally about agentic systems, deep-tech, and what shipping real AI products actually looks like — on [my site](https://portfolio-lilac-seven-14.vercel.app/).
 
 - *What 150 users taught me about agentic UX* — notes from shipping Argus
 - *Why I left Argus at Southampton* — on building things that outlast you
