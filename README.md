@@ -14,6 +14,10 @@ Previously shipped [Argus](https://github.com/yassin1123/Argus) solo to 150 user
 The engineers who design chips, circuits, and embedded systems still work in tools from the 1990s. Substrate is the agentic platform for that gap. Starting with Tracer, an agent that modernises legacy electronic circuits — the technical core placed 2nd of 100+ teams at AMD. Pre-seed, live design-partner conversations.
 `Multi-provider LLM router · agentic core · domain-specific models · multimodal schematic reasoning`
 
+**FlyBy — real-time plane-spotting display**
+A physical IoT screen that detects every aircraft passing within a ~3-mile geofence around you and instantly shows its airline, aircraft type, and route — where it's flying from and to. An ESP32-S3 edge node drives the display; a Rust/Tokio ingestion service opens a firehose to the live global flight network while PostGIS computes in real time when a plane's altitude and trajectory pierce a 3D cylindrical geofence. **$20k in revenue**, built with an airline pilot as the initial investor and aviation-domain advisor.
+`ESP32-S3 · Rust / embedded C · FastAPI · PostgreSQL + PostGIS · Redis · ADS-B telemetry`
+
 ---
 
 ## 🚀 Recently shipped
