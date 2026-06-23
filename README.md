@@ -46,7 +46,6 @@ Functional block detection, parameter estimation, and auditable analysis of netl
 - 🥈 **AMD Pervasive AI Contest 2025** — 2nd of 100+ teams. End-to-end AI system on AMD GPUs that infers a circuit's components and functional intent.
 - 🥇 **BAE Systems Hack the Future 2025** — 1st of ~15 teams. Full-stack World Cup fan-experience system across hardware, networking, backend, and UI in 24 hours.
 - 🏅 **Zepler Prize** — top practical lab grades in cohort, University of Southampton.
-- 💼 **180 Degrees Consulting Southampton** — Member → Consultant → Team Lead → VP. Co-president of a 150-person chapter; sourced engagements with Cancer Research UK and British Heart Foundation.
 
 ---
 
